@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software development and Engineering student<br>I am looking to collaborate on the field of software Development<br>I am currently in Kristianstad<br>I am a student at Kristianstad University<br>
+🔭 I’m currently studying Software development and Engineering Program<br>I am looking to collaborate in the field of software development<br>I am a student at Kristianstad University<br>
 
 
 # 💻 Tech Stack:
